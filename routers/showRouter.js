@@ -74,4 +74,4 @@ showRouter.delete("/:id", async (req,res) => {
 
 
 // export module
-module.exports = {showRouter
+module.exports = {showRouter}
